@@ -1,0 +1,6 @@
+{
+  "name": "라스 패스포트",
+  "description": "발달장애인을 위한 인지적 피로도를 낮추고 직관적으로 식단, 수면, 운동, 걸음 수, 기분을 기록하는 건강 관리 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
